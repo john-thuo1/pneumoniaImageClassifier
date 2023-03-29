@@ -1,6 +1,6 @@
 # pneumoniaImageClassifier
 The repository contains code implementation of a pneumonia Image Classifier that identifies whether a given person has pneumonia or not using their x-ray chest images.\
-The dataset used can be found on Kaggle, titled 'chest X-Ray Images(Pneumonia)'.CNNs were used to train the model.<br />
+The dataset used can be found on Kaggle, titled 'chest X-Ray Images(Pneumonia)'.Convolutional Neural Networks(CNN) were used to train the model.Refer to the model summary for more details on the Hidden Layers used.<br />
 
 # Results 
 
