@@ -18,8 +18,12 @@ To train the model, I used 197 X-Ray Images of People with Pneumonia(PNEUMONIA),
 I split this data into ***training data, validation data and test data***. <br />
 This data is slightly lower to generate a perfect model. <br />
 
+# Experimenting
+To experiment with the model, find it in the ***model directory***. It is saved as **PneumoniaImageclassifier.h5**.
+
 # Future Improvements
-To develop a better model, I plan on using a pre-trained model such as ***VGG16*** or ***VGG19*** and a larger Chest X-Ray dataset, preferably 2GB.<br />
+1. Develop a new model using a pre-trained model such as ***VGG16*** or ***VGG19*** and a larger Chest X-Ray dataset, preferably 2GB.<br />
+2. Host the new model and pneumoniapredictionapp on streamlit.
 
 
 
